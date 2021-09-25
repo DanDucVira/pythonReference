@@ -60,3 +60,31 @@ print(type(offline))
 movie_name = "The matrix"
 print(movie_name)
 print(type(movie_name))
+
+
+# List ----------------------------------------------------
+
+numbers = [1, 2, 3, 4, 5, 6, 6.4, 9.3, "People"]
+# Ordered
+print(numbers)
+print(type(numbers))
+
+
+# Dictionary ----------------------------------------------------
+# unordered
+user_info = {"user_name": "awesome50", "user_id": 56}
+print(user_info)
+print(type(user_info))
+
+
+# Tuple ----------------------------------------------------
+# ordered
+mixed_tuple = (1, 2, 3, 4, 5.6, True, "Daniel", [1, 2, 3])
+print(mixed_tuple)
+print(type(mixed_tuple))
+
+# Set ----------------------------------------------------
+# unordered
+mixed_set = {1, 2, 3, 4, 5.6, True, "Daniel", "python"}
+print(mixed_set)
+print(type(mixed_set))
