@@ -12,10 +12,3 @@ last_name = "Ducas-Viramontes"
 
 print("My first name is {} and my last name is {}, so my full name is {} {}".format(
     first_name, last_name, first_name, last_name))
-
-
-
-
-
-
-
