@@ -1,5 +1,10 @@
 # --------String Methods------------
 
+# Formatted Strings
+first_name = "Daniel"
+last_name = "Ducas-Viramontes"
+full_name = f"{first_name} {last_name}"
+print(full_name)
 
 # 1 - len()
 address = "Canada"
