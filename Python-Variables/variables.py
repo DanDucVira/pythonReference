@@ -21,6 +21,10 @@ my_score = 92
 im_canadian = True
 im_female = False
 
+# the Absence of a value
+print(None)
+print(type(None))
+
 
 """
 --Data Types              --Class--    --Value--
